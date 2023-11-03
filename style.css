@@ -1,0 +1,10 @@
+body{background-image: url(img.jpg/901948.webp);}
+div{
+background: rgba(51, 46, 46, 0.27);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(3.2px);
+-webkit-backdrop-filter: blur(3.2px);
+border: 1px solid rgba(51, 46, 46, 0.3); }
+h1{color: #B9B9B9;}
+p{color: #B9B9B9;}
