@@ -1,4 +1,5 @@
-function convertyardToSquareFeet() {
+function convertValues(event) {
+    event.preventDefault();
     // Get the value of yard input
     var yard = parseFloat(document.getElementById("yard").value);
     
