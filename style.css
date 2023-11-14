@@ -16,7 +16,7 @@ backdrop-filter: blur(5.5px);
 border: 1px solid rgba(255, 255, 255, 0.3);
 padding: 30px;
 }
-.button{
+button{
     padding: 10px;
     border-radius: 10px;
     border-color: #EEC951;
@@ -28,6 +28,6 @@ padding: 30px;
     font-size: xx-large;
     border-radius: 10px;
     border-color: #F8F1A0;
-    }
+}
 
 

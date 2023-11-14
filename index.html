@@ -10,13 +10,13 @@
   <div><center><h1><u>YARD TO SQUARE FEET 
     <br>
     CONVERTER</u></h1>
-    <form>
+    <form onsubmit="convertValues(event)">
         <br>
         <label for="yard"><u><h2>Value In Yard:</h2></u></label>
         <input class="placeholder" type="number" id="yard" placeholder="Enter yard" step="0.00001" required>
         <br>
         <br>
-        <input class="button" type="button" value="Convert" type="submit">
+        <button type="submit">CONVERT</button>
     </form>
     <p id="result"><U>RESULT</U></p>
     </center>
